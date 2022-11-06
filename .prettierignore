@@ -1,3 +1,5 @@
 .husky
 .lintstagedrc
 .prettierignore
+.gitignore
+*.svg
